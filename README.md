@@ -62,3 +62,6 @@ Finally, destroy the Terraform-managed infrastructure:
 ```console
 terraform destroy -var "do_token=${DO_PAT}" -var "pvt_key=$HOME/.ssh/id_rsa"
 ```
+
+
+Roadmap.sh challenge link: https://roadmap.sh/projects/simple-monitoring-dashboard
